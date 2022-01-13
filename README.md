@@ -6,4 +6,4 @@ This app is a wrapper around the existing web app available in the side panel of
 
 ## Installing
 
-Download the latest Tasks-darwin-x64.zip from https://github.com/liamnewmarch/tasks/releases and copy Tasks.app to your Applications folder.
+Download the latest zip file for your architecture from https://github.com/liamnewmarch/tasks/releases and copy Tasks.app to your Applications folder.
